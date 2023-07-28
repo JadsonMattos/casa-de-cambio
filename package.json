@@ -1,0 +1,18 @@
+{
+  "name": "casa-de-cambio",
+  "version": "1.0.0",
+  "description": "O projeto da casa de câmbio é uma aplicação que busca a conversão da taxa de uma moeda para diversas outras.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite --open",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sweetalert2": "^11.7.20",
+    "vite": "^4.4.7"
+  }
+}
