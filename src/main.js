@@ -1,5 +1,5 @@
 import Swal from 'sweetalert2';
-import './style.css';
+import './styles.css';
 import coinImg from './assets/coin.svg';
 
 const coinInput = document.querySelector('#coin-input');
